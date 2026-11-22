@@ -19,15 +19,15 @@ export default function page() {
         <div className={style.upcomingEvent}>
           <div className={style.date}>
             <div>
-              <h2>14 DEC</h2>
-              <h2> 2025</h2>
+              <h2>13 DEC</h2>
+              <h2> 2026</h2>
             </div>
           </div>
 
           <div className={style.eventDetails}>
             <h1>
               <Link href="">
-                Upcoming Event : 4th SHAHEEDI JODMEL OF CHAAR SAHIBZADE
+                Upcoming Event : 5th SHAHEEDI JODMEL OF CHAAR SAHIBZADE
               </Link>{" "}
             </h1>
             <h2>
@@ -43,11 +43,10 @@ export default function page() {
                 {" "}
                 <VscLocation />
               </span>{" "}
-              Gurudwara Shri Guru Teg Bahadur Sahib Sector 34 Chandigarh
-            </h2>
+Dussehra Ground, Sector 43-A Chandigarh            </h2>
           </div>
 
-          <CountDownTimer date={"14.12.2025"} time={"10.00"} />
+          <CountDownTimer date={"13.12.2026"} time={"10.00"} />
         </div>
       </div>
 
@@ -67,13 +66,13 @@ export default function page() {
             Upcoming Event
           </h2>
           <p class="text-base md:text-lg text-gray-600 mb-4">
-            4th SHAHEEDI JODMEL OF CHAAR SAHIBZADE
+            5th SHAHEEDI JODMEL OF CHAAR SAHIBZADE
           </p>
           <p class="text-base md:text-lg text-gray-600 mb-6">
-            <strong>Date:</strong> 14th December 2025
+            <strong>Date:</strong> 13th December 2026
           </p>
           <p class="text-base md:text-lg text-gray-600 mb-6">
-            <strong>Venue:</strong> Gurudwara Shri Guru Teg Bahadur Sahib Sector 34 Chandigarh
+            <strong>Venue:</strong> Dussehra Ground, Sector 43-A Chandigarh
           </p>
           <p class="text-sm md:text-base text-gray-700 font-medium">
             Your participation can save lives. All are requested to donate blood
