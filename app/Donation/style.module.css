@@ -1,0 +1,58 @@
+.donate {
+  width: 100%;
+}
+.donate h1 {
+  text-align: center;
+  font-size: 3vw;
+  font-weight: 550;
+}
+.donate p{
+    margin-top: 1%;
+    text-align: center;
+    color: red;
+    font-size: 1.5vw;
+    
+    font-weight: 660;
+}
+.donate p a{
+    color: blue;
+}
+
+.donate .qrcodescan {
+  position: relative;
+}
+
+.donate h2 {
+  padding-top: 3%;
+  text-align: center;
+  font-size: 1.3vw;
+  font-weight: 650;
+}
+
+.donate .qrcodescan {
+  display: flex;
+  justify-content: center;
+}
+.qrcode {
+  position: relative;
+  width: 20vw;
+  height: 20vw;
+}
+.donate .paywithbank{
+margin-top: 2%;
+    margin-bottom: 5%;
+}
+.donate h6 {
+    text-align: center;
+font-weight: 500;
+font-size: 1.3vw;
+  }
+.donate h6 span{
+    margin-right: 0.5%;
+    font-weight: 400;
+
+}
+  
+
+@media only screen and (min-width: 0px) and (max-width: 800px) {
+}
